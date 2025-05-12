@@ -39,8 +39,7 @@ printf("\nDivision: %d",result);
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/5d2685e2-deca-439b-97af-a2191a94226f)
-## RESULT:
-Thus, the program is executed and verified successfully.
+
 
 
 
